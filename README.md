@@ -9,3 +9,5 @@ Proyecto de demostración para el curso **Github Actions**
 - ASP.NET 10
 - C# 13
 - Git + Github
+
+## Licencia MIT
